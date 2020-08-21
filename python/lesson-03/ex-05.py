@@ -17,7 +17,14 @@ print("The smaller of a and b is", smaller(a, b))
 
 
 # define your functions here
-
+def larger(n1, n2):
+    if n1 > n2:
+        return n1
+    return n2
 
 # Call your functions and print out your results here
 
+a, b = 4, -5
+
+print("The larger of a and b is", larger(a, b))
+#print("The smaller of a and b is", smaller(a, b))

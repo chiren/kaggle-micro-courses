@@ -10,7 +10,7 @@ ex:
 
 result = avg2(3, 4)
 
-print("Result:" result)
+print("Result:", result)
 """
 
 

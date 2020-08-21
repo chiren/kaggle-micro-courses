@@ -10,13 +10,17 @@ ex:
 
 result = add2(3, 4)
 
-print("Result:" result)
+print("Result:", result)
 """
 
 
 # define your function here
-
+def add2(n1, n2):
+    return n1 + n2
 
 
 # Call your function with 2 numbers, and print out your result here
 
+result = add2(3, 4)
+
+print("Result:", result)
