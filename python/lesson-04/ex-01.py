@@ -9,7 +9,11 @@ Return: The last item of the list
 
 """
 # define your function here
+def first_item(list):
+    pass
 
+def last_item(list):
+    pass
 
 
 # The following codes test your functions
